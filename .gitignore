@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnement virtuel
+env/
+venv/
+.venv/
+
+# Dossiers volumineux / données / modèles
+data/
+models/
+
+# Logs / temporaires
+*.log
+*.tmp
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
