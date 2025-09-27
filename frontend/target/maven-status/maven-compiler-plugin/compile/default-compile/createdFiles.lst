@@ -1,0 +1,4 @@
+com\myorg\commentai\ApiClient.class
+com\myorg\commentai\ApiClient$AnalysisResult.class
+com\myorg\commentai\DatabaseHelper.class
+com\myorg\commentai\Main.class
